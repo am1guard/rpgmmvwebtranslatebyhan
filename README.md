@@ -6,13 +6,13 @@ First, you need to select the data folder of your RPG in the game.
 
 ![Ekran görüntüsü 2025-02-11 192239](https://github.com/user-attachments/assets/034de5e5-222c-4cc3-b7f0-a576df8a3ffc)
 
-After selecting it, our package will show our package and the json files in our components.
+After selecting the folder, the text inside the folder and the files inside the folder will also be shown in this section.
 
 
 ![Ekran görüntüsü 2025-02-11 192244](https://github.com/user-attachments/assets/f92b6235-ea73-48eb-9312-b12a122a550b)   ![Ekran görüntüsü 2025-02-11 192754](https://github.com/user-attachments/assets/1e0ee4b8-cfee-4688-9f38-3964d84a22f8)
 
 
-Now I want you to look at how many letters the game has by typing game. that it is possible to combine this automatically. Since the limit is 50 in my game, I enter 50 here. If you do not set this, the game texts will overflow the textbox.
+Now I want you to find out how many letters can fit inside the textbox in your game. In my game it is 50, so I enter 50. if we enter too much here, the text will start to overflow out of the textbox.
 
 ![Ekran görüntüsü 2025-02-11 192352](https://github.com/user-attachments/assets/7a35b6ed-b819-4205-beab-98a301a67e0a)   ![Ekran görüntüsü 2025-02-11 192358](https://github.com/user-attachments/assets/5220a528-a073-4b6c-a73b-2ecf4515ca5d)
 
@@ -23,7 +23,7 @@ Then we press the export to html button and it takes us to the default browser.
 
 I want to use Edge from here and I recommend Edge to all of you. The translation is very good and compatible with the program.
 
-right-click anywhere on the page and press turn page
+right-click anywhere on the page and press translate page
 
 ![Ekran görüntüsü 2025-02-11 192902](https://github.com/user-attachments/assets/b6df1888-3e85-41c8-90b1-e9f66167fddd)
 
