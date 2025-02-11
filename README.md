@@ -42,6 +42,14 @@ then we say aplly translate and that's it. your game is translated.
 
 
 
-Original:     ![Ekran görüntüsü 2025-02-11 193208](https://github.com/user-attachments/assets/f2944f79-3cf4-477c-84ee-b1d35ddd2eb7)
-Translated:     ![Ekran görüntüsü 2025-02-11 193654](https://github.com/user-attachments/assets/10d30d16-c3e4-43f4-b8dc-e6cd3466c3e7)
+Original:     
+
+
+![Ekran görüntüsü 2025-02-11 193208](https://github.com/user-attachments/assets/f2944f79-3cf4-477c-84ee-b1d35ddd2eb7)
+
+
+Translated:     
+
+
+![Ekran görüntüsü 2025-02-11 193654](https://github.com/user-attachments/assets/10d30d16-c3e4-43f4-b8dc-e6cd3466c3e7)
 
