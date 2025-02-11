@@ -9,7 +9,7 @@ First, you need to select the data folder of your RPG in the game.
 After selecting the folder, the text inside the folder and the files inside the folder will also be shown in this section.
 
 
-![Ekran görüntüsü 2025-02-11 192244](https://github.com/user-attachments/assets/f92b6235-ea73-48eb-9312-b12a122a550b)   ![Ekran görüntüsü 2025-02-11 192754](https://github.com/user-attachments/assets/1e0ee4b8-cfee-4688-9f38-3964d84a22f8)
+![Ekran görüntüsü 2025-02-11 192754](https://github.com/user-attachments/assets/1e0ee4b8-cfee-4688-9f38-3964d84a22f8)
 
 
 Now I want you to find out how many letters can fit inside the textbox in your game. In my game it is 50, so I enter 50. if we enter too much here, the text will start to overflow out of the textbox.
