@@ -23,7 +23,7 @@ Then we press the export to html button and it takes us to the default browser.
 
 I want to use Edge from here and I recommend Edge to all of you. The translation is very good and compatible with the program.
 
-right-click anywhere on the page and press translate page
+right-click anywhere on the page and press translate to ...
 
 ![Ekran görüntüsü 2025-02-11 192902](https://github.com/user-attachments/assets/b6df1888-3e85-41c8-90b1-e9f66167fddd)
 
