@@ -51,5 +51,6 @@ Original:
 Translated:     
 
 
-![Ekran görüntüsü 2025-02-11 193654](https://github.com/user-attachments/assets/10d30d16-c3e4-43f4-b8dc-e6cd3466c3e7)
+![image](https://github.com/user-attachments/assets/67aa998c-17d6-4cb3-a83e-c2e85b1443c8)
+
 
