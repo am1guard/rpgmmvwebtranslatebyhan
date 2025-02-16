@@ -295,29 +295,42 @@ class RPGMMVTranslationApp:
         if not self.original_strings:
             messagebox.showwarning("Uyarı", "Çevrilecek metin bulunamadı!")
             return
-        
+
         html_content = """<html>
-<head>
-    <style>
-        body { background-color: black; color: cyan; font-family: monospace; }
-        li { margin: 10px 0; white-space: pre-wrap; }
-    </style>
-</head>
-<body>
-    <ol>
-"""
+    <head>
+        <style>
+            body { background-color: black; color: cyan; font-family: monospace; }
+            .container { 
+                display: flex; 
+                flex-wrap: wrap; 
+                justify-content: space-around;
+                padding: 10px;
+            }
+            .item { 
+                margin: 10px; 
+                padding: 5px; 
+                border: 1px solid cyan; 
+                white-space: pre-wrap; 
+                max-width: 300px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+    """
         for s in self.original_strings:
             s_clean = s.replace("\n", "").strip()
-            html_content += f'        <li>{html.escape(s_clean)}</li>\n'
-        html_content += """    </ol>
-</body>
-</html>"""
-        
+            html_content += f'        <div class="item">{html.escape(s_clean)}</div>\n'
+        html_content += """    </div>
+    </body>
+    </html>"""
+
         with open('translations.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
-        
+
         webbrowser.open('translations.html')
         self.apply_btn.config(state='normal')
+
     
     def apply_translations(self):
         translated = self.translated_text.get(1.0, tk.END).splitlines()
